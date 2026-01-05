@@ -1,16 +1,27 @@
-## Hi there 👋
+# Julien Sisavath
 
-<!--
-**JulienSisi/JulienSisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Maintenance → Data & Software Engineering**
 
-Here are some ideas to get you started:
+Fribourg, Switzerland 🇨🇭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+15 years in industrial maintenance (Alstom, Bombardier, Celgene), now pursuing a BSc in Computer Science at HEIA-FR. I bring real-world experience in critical systems to software and data engineering.
+
+### 🔧 Background
+
+- Maintenance planning & execution for metro trains (M2 Lausanne)
+- CMMS management & KPI reporting (Oracle)
+- Technical documentation & procedures in regulated environments (pharma GMP)
+
+### 💻 Current Focus
+
+- Predictive maintenance & time series analysis
+- Data pipelines & ETL
+- Python, SQL, MATLAB/Simulink
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliensisavath/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/juliensisavath)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://juliensisavath.com)
